@@ -1,0 +1,11 @@
+# Python
+api/.venv/
+__pycache__/
+.pytest_cache/
+api/data/
+
+# Node / Expo (more in app/.gitignore)
+node_modules/
+
+.DS_Store
+screenshots/_video/
